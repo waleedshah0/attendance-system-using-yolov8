@@ -136,4 +136,4 @@ Threading/CPU env vars are pre-configured at the top of `main_server_fixed.py` f
 - Do not commit proprietary employee face images.
 
 ## License
-Proprietary — internal organizational use.
+Proprietary — internal organizational use, Created by Waleed Shah.
