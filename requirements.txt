@@ -1,0 +1,14 @@
+opencv-python
+numpy
+faiss-cpu
+insightface
+lap==0.5.12
+dill==0.4.0
+ultralytics
+onnx
+onnxruntime
+flask
+slack_sdk 
+watchdog 
+pandas
+requests
